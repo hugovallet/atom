@@ -1,0 +1,21 @@
+graphviz
+joblib
+matplotlib
+numpy
+pandas
+pyyaml
+scikit-learn
+scipy
+seaborn
+typeguard
+
+# Documentation
+sphinx
+sphinx-rtd-theme
+sphinx-autodoc-typehints
+
+# Testing
+pytest
+pytest-cov
+pytest-pylint
+python-dateutil
